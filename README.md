@@ -23,7 +23,7 @@ This repository contains a simple yet powerful To-Do List application. The app h
 
 1. *Clone the repository:*
    sh
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/anshu-2005/todo-list.git
    cd todo-list
    
 
